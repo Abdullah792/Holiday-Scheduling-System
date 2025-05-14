@@ -1,5 +1,5 @@
 asgiref==3.3.1
-Django==3.1.7
+Django==4.2.21
 django-active-link==0.1.7
 django-secure==1.0.2
 psycopg2-binary==2.8.6
